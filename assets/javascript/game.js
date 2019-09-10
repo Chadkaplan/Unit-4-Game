@@ -41,4 +41,5 @@ $(document).ready(function () {
     $("#goalScore").text(goalScore)
     // Call the reset function to start a game with base variables
     reset();
+    
 })
